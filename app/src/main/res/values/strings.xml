@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NCTU智慧導航</string>
+    <string-array name="buidings">
+        <item>GuardRoom</item>
+        <item>Post</item>
+        <item>Restaurant-1</item>
+        <item>Restaurant-2</item>
+        <item>SwimmingPool</item>
+        <item>Library</item>
+        <item>EC</item>
+        <item>ED</item>
+        <item>EE</item>
+        <item>ES</item>
+        <item>SC</item>
+        <item>GirlsDorm-2</item>
+        <item>Dorm-13</item>
+    </string-array>>
+</resources>
