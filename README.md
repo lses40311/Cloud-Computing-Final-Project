@@ -1,4 +1,4 @@
-# Cloud Computing Final Peoject#  
+# Cloud Computing Final Peoject
 ## Introduction
 This is a project for our cloud computing class in NCTU 2015. We make a navigator APP on Android phone that can navigate visitors to their destinations. The UI is clear and clean, the users just need to follow the direction that the arrow in the creen is pointing, and they can easily get to the destination. Of course, be aware where are you walking into during the navigation.  
 ##Usage
